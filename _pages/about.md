@@ -7,10 +7,10 @@ permalink: /
 profile:
   align: right
   image: prof_pic_color.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>1062 62<sup>nd</sup> St.</p>
-    <p>Brooklyn, NY 11219</p>
+    <p>New York, NY 11219</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,13 +23,50 @@ I’m a data-driven problem solver passionate about Generative AI and AI Agents.
 
 My interests include Generative AI techniques that facilitates the integration of domain knowledge and deep learning models. I am passionate about exploring how AI Agents(with guardrails) and RAGs can foster safe, robust, and explainable AI. I have also worked on other topics like Recommendation Systems, LLM finetuning and probabilistic models.
 
+I was part of [DitecT lab](https://www.columbia.edu/~yf2578/) at [Columbia Engineering](https://www.engineering.columbia.edu) and I was advised by Dr. [Sharon Di](https://www.engineering.columbia.edu/faculty-staff/directory/sharon-di) & [Zhaobin Mo](https://zhaobinmo.github.io) to work on Deep Learning models for autonomous vehicles. I have also worked at [Nokia](https://www.nokia.com/), [ISRO](https://www.isro.gov.in/) and [Indian Oil Corporation Ltd.](https://en.wikipedia.org/wiki/Indian_Oil_Corporation) which gave me hands-on experience in AI, network security, and Data engineering.
+
+My leadership as a PDL Fellow at Columbia University and volunteer work with the Blind People’s Association reflect my commitment to societal impact.
+
+I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems. 
+
+Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ***Data Science & Generative AI. Understanding the "black box" in AI.***
+
+I’m a data-driven problem solver passionate about Generative AI and AI Agents. I hold a Master’s in [Electrical Engineering](https://www.engineering.columbia.edu/electrical-engineering-department) from [Columbia University](https://en.wikipedia.org/wiki/Columbia_University), specializing in Machine Learning, Generative AI, NLP, and Big Data. I completed my B.Tech. from [VIT University](https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology) in 2023, graduating with distinction.
+
+My interests include Generative AI techniques that facilitates the integration of domain knowledge and deep learning models. I am passionate about exploring how AI Agents(with guardrails) and RAGs can foster safe, robust, and explainable AI. I have also worked on other topics like Recommendation Systems, LLM finetuning and probabilistic models.
+
 I was part of [DitecT lab](https://www.columbia.edu/~yf2578/) at [Columbia Engineering](https://www.engineering.columbia.edu) and I was advised by Dr. [Sharon Di](https://www.engineering.columbia.edu/faculty-staff/directory/sharon-di) & [Zhaobin Mo](https://zhaobinmo.github.io) where I developed a custom R-CNN model for autonomous vehicles to generate control signals and reducing data volume by 32% via Data distillation.
 
 During my summer internship at Nokia, I designed an MLP-Mixer Autoencoder for 6G networks at [Nokia](https://www.nokia.com/), cutting model parameters by 50%, and fine-tuned LLMs to save 25+ hours on document summarization. Prior to Columbia University I have also worked at [ISRO](https://www.isro.gov.in/) and [Indian Oil Corporation Ltd.](https://en.wikipedia.org/wiki/Indian_Oil_Corporation) which gave me hands-on experience in AI, network security, and Data engineering.
 
 My leadership as a PDL Fellow at Columbia University and volunteer work with the Blind People’s Association reflect my commitment to societal impact.
 
-I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems. Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
+I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems. 
+
+Let’s [connect](https://www.linkedin.com/in/patelapurva/)!! -->
+
+
+
+
+
+
+
+
+
 
 
 
@@ -49,6 +86,14 @@ I’m eager to continue pushing the boundaries of AI and machine learning to cre
 
 Let’s [connect](https://www.linkedin.com/in/patelapurva/) and collaborate!! 
  -->
+
+
+
+
+
+
+
+
 
 
 <!-- Hi, 
