@@ -1,36 +1,54 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Apurva Patel",
+    "label": "Data Scientist, AI & Machine Learning Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "p.apurva1031@gmail.com",
+    "phone": "(347) 863-6221",
+    "url": "https://www.patelapurva.com",
+    "summary": "A Columbia University graduate with a strong background in AI/ML and Data Science",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1062 62nd St",
+      "postalCode": "NY 11219",
+      "city": "Brooklyn",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "apurva3509",
+        "url": "https://twitter.com/apurva3509"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Nokia of America Corporation",
+      "position": "AI/ML Intern",
+      // "url": "https://example.com",
+      "startDate": "2024-06-01",
+      "endDate": "2024-09-09",
+      "summary": "Research on standardization process for AI/ML applications in 6G with Nokia Standards team, and development of AI/ML models (Autoencders and LLMs).",
+      "highlights": ["Generative AI & Data Science", "SDLC, MLOps, LLMOps"]
+    },
+    {
+      "name": "Indian Space Research Organization",
+      "position": "AI Researcher",
+      // "url": "https://example.com",
+      "startDate": "2022-12-01",
+      "endDate": "2023-05-20",
+      "summary": "Worked on High Speed data acquisition & verification using FPGAs for Forest fire detection(CNN with input speed of 1.7 GB/s), SEDA - Sensors Development Area Group member",
+      "highlights": ["Deep Learning & Computer Vision", "Python, MATLAB, FPGA, LabVIEW"]
+    },
+    {
+      "name": "Nokia of America Corporation",
+      "position": "AI/ML Engineer",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2024-06-01",
+      "endDate": "2024-09-09",
+      "summary": "Research on standardization process for AI/ML applications in 6G with Nokia Standards team, and development of AI/ML models (Autoencders and LLMs).",
+      "highlights": ["Generative AI & Data Science"]
     }
   ],
   "volunteer": [
