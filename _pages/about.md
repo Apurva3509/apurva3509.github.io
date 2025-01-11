@@ -9,11 +9,11 @@ profile:
   image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>📧 amp2365[at]columbia[dot]edu</p>
+    <p>amp2365[at]columbia[dot]edu</p>
     <p>📍New York City, USA</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -25,9 +25,9 @@ My interests include Generative AI techniques that facilitates the integration o
 
 I was part of [DitecT lab](https://www.columbia.edu/~yf2578/) at [Columbia Engineering](https://www.engineering.columbia.edu) and I was advised by Dr. [Sharon Di](https://www.engineering.columbia.edu/faculty-staff/directory/sharon-di) & [Zhaobin Mo](https://zhaobinmo.github.io) to work on Deep Learning models for autonomous vehicles. I have also worked at [Nokia](https://www.nokia.com/), [ISRO](https://www.isro.gov.in/) and [Indian Oil Corporation Ltd.](https://en.wikipedia.org/wiki/Indian_Oil_Corporation) which gave me hands-on experience in AI, network security, and Data engineering.
 
-My leadership as a PDL Fellow at Columbia University and volunteer work with the Blind People’s Association reflect my commitment to societal impact.
+<!-- My leadership as a PDL Fellow at Columbia University and volunteer work with the Blind People’s Association reflect my commitment to societal impact. -->
 
-I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems. 
+**I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems. **
 
 Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
 
