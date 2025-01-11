@@ -22,6 +22,31 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Columbia University",
+      "location": "New York, United States",
+      "url": "https://www.engineering.columbia.edu",
+      "area": "Electrical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2023-09-04",
+      "endDate": "2024-12-20",
+      "score": "10",
+      "courses": ["Applied Machine Learning", "Generative AI", "Deep Learning", "Big Data Analytics", "Natural language Processing", "Probability & Statistics"]
+    },
+    {
+      "institution": "Vellore Institute of Technology",
+      "location": "Tamil Nadu, India",
+      "url": "https://www.vit.ac.in",
+      "area": "Electronics & Instrumentation Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2019-07-10",
+      "endDate": "2023-05-25",
+      "score": "10",
+      "courses": ["Neural Networks & Fuzzy Control", "Data Strictures and Algorithms", "Digital Signal Processing", "Process Control & Automation"]  
+    }
+  ],
+
   "work": [
     {
       "name": "Nokia of America Corporation",
@@ -43,7 +68,7 @@
     },
     {
       "name": "Indian Oil Corporation Ltd.",
-      "position": "AI/ML Engineer",
+      "position": "Network Security & Instrumentation Intern",
       "url": "https://en.wikipedia.org/wiki/Indian_Oil_Corporation",
       "startDate": "2022-05-01",
       "endDate": "2022-07-10",
@@ -51,6 +76,7 @@
       "highlights": ["Statistical Analysis", "Python, Tableau, Sensor design"]
     }
   ],
+
   "volunteer": [
     {
       "organization": "Blind People's Association",
@@ -71,30 +97,6 @@
       "endDate": "2024-08-20",
       "summary": "Electrical Engineerinf Department Representative, managed 15+ events.",
       "highlights": ["Awardee for Best Volunteer", "Organization and Management"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Columbia University",
-      "location": "New York, United States",
-      "url": "https://www.engineering.columbia.edu",
-      "area": "Electrical Engineering",
-      "studyType": "Master of Science",
-      "startDate": "2023-08-20",
-      "endDate": "2024-12-20",
-      "score": "10",
-      "courses": ["Applied Machine Learning", "Generative AI", "Deep Learning", "Big Data Analytics", "Natural language Processing", "Probability & Statistics"]
-    },
-    {
-      "institution": "Vellore Institute of Technology",
-      "location": "Tamil Nadu, India",
-      "url": "https://www.vit.ac.in",
-      "area": "Electronics & Instrumentation Engineering",
-      "studyType": "Bachelor of Technology",
-      "startDate": "2019-07-10",
-      "endDate": "2023-05-25",
-      "score": "10",
-      "courses": ["Neural Networks & Fuzzy Control", "Data Strictures and Algorithms", "Digital Signal Processing", "Process Control & Automation"]  
     }
   ],
   "awards": [
