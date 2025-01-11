@@ -9,7 +9,7 @@ last_name: Patel
 contact_note: >
   You can best reach out to me on <a href="https://www.linkedin.com/in/patelapurva/" target="_blank">LinkedIn</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal website for Apurva Mahendra Patel.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
@@ -274,8 +274,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Patel]
+  first_name: [Apurva, M.]
 
   style: apa
   locale: en

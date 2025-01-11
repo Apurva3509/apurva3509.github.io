@@ -9,8 +9,8 @@ profile:
   image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1062 62<sup>nd</sup> St.</p>
-    <p>New York, NY 11219</p>
+    <p>📧 amp2365[at]columbia[dot]edu</p>
+    <p>📍New York City, USA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

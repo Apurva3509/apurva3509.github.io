@@ -95,7 +95,7 @@
       "url": "https://egsc.engineering.columbia.edu",
       "startDate": "2023-09-01",
       "endDate": "2024-08-20",
-      "summary": "Electrical Engineerinf Department Representative, managed 15+ events.",
+      "summary": "Electrical Engineering Department Representative, managed 15+ events.",
       "highlights": ["Awardee for Best Volunteer", "Organization and Management"]
     }
   ],
@@ -105,7 +105,7 @@
       "date": "2024-11-12",
       "awarder": "Columbia Engineering",
       "url": "https://pdl.engineering.columbia.edu/content/pdl-fellows",
-      "summary": "Highly competitive award for leadership and professional development( only 25 off 3000+ students."
+      "summary": "Highly competitive award for leadership and professional development(only 25 off 3000+ students)."
     },
     {
       "title": "Merit Scholarship",
@@ -137,10 +137,10 @@
       "level": "Master",
       "icon": "fa-solid fa-thumbtack",
       "keywords": [
-        "Pyhthon",
+        "Python",
         "R",
         "SQL",
-        "C",
+        "C/C++",
         "MATLAB",
         "Java"
       ]
