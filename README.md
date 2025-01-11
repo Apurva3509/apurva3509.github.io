@@ -80,8 +80,6 @@ Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Apurva3509&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=vue&hide_border=true" alt="GitHub Stats" style="margin-right: 10px;" />
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=Apurva3509&theme=vue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
