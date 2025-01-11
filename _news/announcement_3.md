@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Interned with Nokia Bell Labs :)
+Interned with Nokia of America :)

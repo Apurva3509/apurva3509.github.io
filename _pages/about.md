@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-***Data Science & Generative AI. Understanding the "black box" in AI.***
+**Data Science & Generative AI. Understanding the *"black box"* in AI.**
 
 I’m a data-driven problem solver passionate about Generative AI and AI Agents. I hold a Master’s in [Electrical Engineering](https://www.engineering.columbia.edu/electrical-engineering-department) from [Columbia University](https://en.wikipedia.org/wiki/Columbia_University), specializing in Machine Learning, Generative AI, NLP, and Big Data. I completed my B.Tech. from [VIT University](https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology) in 2023, graduating with distinction.
 
@@ -27,7 +27,7 @@ I was part of [DitecT lab](https://www.columbia.edu/~yf2578/) at [Columbia Engin
 
 <!-- My leadership as a PDL Fellow at Columbia University and volunteer work with the Blind People’s Association reflect my commitment to societal impact. -->
 
-**I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems. **
+**I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems.**
 
 Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
 

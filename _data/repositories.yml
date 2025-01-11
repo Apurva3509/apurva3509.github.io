@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Apurva3509
+  # - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Apurva3509/MedLMs
+  - Apurva3509/LeetCode
+  - Apurva3509/CEEM-Research
+  - Apurva3509/SqueezeNet_HAD
+  - Apurva3509/Applied-Machine-Learning 
+  - Apurva3509/ig-Data-TS-Forecasting 
+  - Apurva3509/apurva.github.io
