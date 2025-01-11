@@ -60,7 +60,7 @@
       "startDate": "2015-04-01",
       "endDate": "2023-07-10",
       "summary": "Assitant organizer for the annual 'Blind Walk' event, which aims to raise awareness about the challenges faced by visually impaired people.",
-      "highlights": ["Awardee for Best Volunteer", "Organized 15+ events"]
+      "highlights": ["Awardee for Best Organizer", "Organized 15+ events"]
     },
     {
       "organization": "Engineering Graduate Student Council (Columbia University)",
@@ -70,20 +70,31 @@
       "startDate": "2023-09-01",
       "endDate": "2024-08-20",
       "summary": "Electrical Engineerinf Department Representative, managed 15+ events.",
-      "highlights": ["Awardee for Best Volunteer", "Management"]
+      "highlights": ["Awardee for Best Volunteer", "Organization and Management"]
     }
   ],
   "education": [
     {
       "institution": "Columbia University",
       "location": "New York, United States",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "url": "https://www.engineering.columbia.edu",
+      "area": "Electrical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2023-08-20",
+      "endDate": "2024-12-20",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Applied Machine Learning", "Generative AI", "Deep Learning", "Big Data Analytics", "Natural language Processing", "Probability & Statistics"]
+    },
+    {
+      "institution": "Vellore Institute of Technology",
+      "location": "Tamil Nadu, India",
+      "url": "https://www.vit.ac.in",
+      "area": "Electronics & Instrumentation Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2019-07-10",
+      "endDate": "2023-05-25",
+      "score": "10",
+      "courses": ["Neural Networks & Fuzzy Control", "Data Strictures and Algorithms", "Digital Signal Processing", "Process Control & Automation"]  
     }
   ],
   "awards": [
@@ -92,7 +103,14 @@
       "date": "2024-11-12",
       "awarder": "Columbia Engineering",
       "url": "https://pdl.engineering.columbia.edu/content/pdl-fellows",
-      "summary": "Recipient of the highly selective Professional Development and Leadership (PDL) Fellowship for demonstrating outstanding leadership qualities and a strong commitment to professional development, joining an elite cohort of 25 graduate students out of ~3000+ from the School of Engineering & Applied Science at Columbia University."
+      "summary": "Highly competitive award for leadership and professional development( only 25 off 3000+ students."
+    },
+    {
+      "title": "Merit Scholarship",
+      "date": "2023-05-20",
+      "awarder": "VIT University",
+      "url": "www.linkedin.com/in/patelapurva/",
+      "summary": "Awarded for academic excellence for 4 consecutive years, ranked 4/164 students."
     }
   ],
   "publications": [
@@ -153,7 +171,7 @@
   ],
   "languages": [
     {
-      "language": "Englis",
+      "language": "English",
       "fluency": "Bilingual",
       "icon": ""
     },
