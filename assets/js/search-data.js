@@ -3,15 +3,15 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-about-me",
+    title: "About Me",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-repositories",
-          title: "Repositories",
-          description: "My GitHub profile &amp; repositories and some projects.",
+  },{id: "nav-project-repositories",
+          title: "Project Repositories",
+          description: "My GitHub profile &amp; repositories for project and personal work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Teaching Assistant",
+          description: "Graduate Course teaching experience at Columbia University",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
