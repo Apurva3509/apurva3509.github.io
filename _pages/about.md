@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 **Data Science & Generative AI. Understanding the *"black box"* in AI.**
 
-I’m a data-driven problem solver passionate about Generative AI and AI Agents. I hold a Master’s in [Electrical Engineering](https://www.engineering.columbia.edu/electrical-engineering-department) from [Columbia University](https://en.wikipedia.org/wiki/Columbia_University), specializing in Machine Learning, Generative AI, NLP, and Big Data. I completed my B.Tech. from [VIT University](https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology) in 2023, graduating with distinction.
+I’m a data-driven problem solver passionate about Generative AI and AI Agents. I hold a Master’s in [Electrical Engineering](https://www.engineering.columbia.edu/electrical-engineering-department) from [Columbia University](https://en.wikipedia.org/wiki/Columbia_University) ♔, specializing in Machine Learning, Generative AI, NLP, and Big Data. I completed my B.Tech. from [VIT University](https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology) in 2023, graduating with distinction.
 
 My interests include Generative AI techniques that facilitates the integration of domain knowledge and deep learning models. I am passionate about exploring how AI Agents(with guardrails) and RAGs can foster safe, robust, and explainable AI. I have also worked on other topics like Recommendation Systems, LLM finetuning and probabilistic models.
 
