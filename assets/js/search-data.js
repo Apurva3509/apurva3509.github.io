@@ -391,7 +391,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-graduated-among-top-10-from-columbia-university",
-          title: 'Graduated among top 10% from Columbia University.',
+          title: 'Graduated among top 10% from Columbia University .',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
