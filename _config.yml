@@ -14,7 +14,28 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🎴 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+# icon: 🎴 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+# Favicon settings for compatibility
+head:
+  # Standard favicon for all devices
+  - <link rel="icon" href="/assets/img/favicon.ico" sizes="any">
+  # PNG icons for specific sizes
+  - <link rel="icon" href="/assets/img/ap-logo-16x16.png" sizes="16x16">
+  - <link rel="icon" href="/assets/img/ap-logo-32x32.png" sizes="32x32">
+  - <link rel="icon" href="/assets/img/ap-logo-192x192.png" sizes="192x192">
+  - <link rel="icon" href="/assets/img/ap-logo-512x512.png" sizes="512x512">
+  # Apple touch icon for iOS
+  - <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+  # Mask icon for Safari
+  # - <link rel="mask-icon" href="/assets/img/favicon/favicon-mask.svg" color="#5bbad5">
+  # Theme-based favicon selection
+  - <link rel="icon" href="/assets/img/light-favicon.ico" sizes="any" media="(prefers-color-scheme: light)">
+  - <link rel="icon" href="/assets/img/favicon.ico" sizes="any" media="(prefers-color-scheme: dark)">
+
+
 
 url: https://apurva3509.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
