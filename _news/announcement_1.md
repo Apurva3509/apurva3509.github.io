@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated among top 10% from Columbia University <img src="{{ '/assets/images/columbia-logo.png' | relative_url }}" alt="Columbia University Logo" style="width:150px; margin-bottom:20px;">.
+Graduated among top 10% from Columbia University <img src="{{ '/assets/img/columbia-logo.png' | relative_url }}" alt="Columbia University Logo" style="width:150px; margin-bottom:20px;">.
