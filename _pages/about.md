@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About Apurva
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
