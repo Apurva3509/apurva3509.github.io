@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about-apurva",
-    title: "About Apurva",
+    title: "About APurva",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
