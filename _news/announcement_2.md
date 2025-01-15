@@ -10,7 +10,6 @@ Finetuned multiple LLMs for Medical answering system and achieved remarkable per
 
 ---
 
-
 The integration of AI in healthcare is revolutionizing how we approach Medical Question Answering (MedQA) systems, providing clinicians, patients, and researchers with quick and reliable responses. In this project, we explore the fine-tuning of several pre-trained large language models and adapting them to the medical domain through efficient methods like LoRA. The final models were deployed using LangChain and Netlify for better infernece speed.
 
 By experimenting with datasets like WikiDoc and MedQuad, we uncover valuable insights into how these models perform in terms of speed, scalability, and task-specific accuracy. Comparing the models reveals key trade-offs. Larger models like Llama 3 excel at handling complex medical queries, while smaller models such as DistilGPT2 prioritize speed and efficiency for simpler tasks. Our findings emphasize how fine-tuning and careful model selection can create precise, scalable solutions tailored to the unique challenges of healthcare applications.

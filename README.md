@@ -1,11 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=800&size=30&pause=1000&color=1B5E7B&vCenter=true&repeat=true&width=480&height=40&lines=Hi%2C+I+am+Apurva+Patel+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-
 <!-- <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> -->
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30"/> **About Me**
-![Profile views](https://komarev.com/ghpvc/?username=Apurva3509&color=green)
 
+![Profile views](https://komarev.com/ghpvc/?username=Apurva3509&color=green)
 
 I’m a data-driven problem solver passionate about Generative AI and AI Agents. Visit my [website](https://www.patelapurva.com) for more details.
 
@@ -17,9 +16,7 @@ Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
 
 - 🌱 I’m currently working on: AI Safety and AI Agent guardrails
 - 🔭 I’m researching: Advanced Retrieval methods and Multimodal Vector Embeddings.
-  
 - 🔗 Visit me on [LinkedIn](https://www.linkedin.com/in/patelapurva) to connect
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -89,15 +86,14 @@ Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
   </a>
 </p>
 
+**Education**:
 
-**Education**:  
-  - M.S. in Electrical Engineering (Columbia University)  
-  - B.Tech. in Electronics & Instrumentation Engineering (VIT University)
+- M.S. in Electrical Engineering (Columbia University)
+- B.Tech. in Electronics & Instrumentation Engineering (VIT University)
 
-**Languages**:  
-  - English (Native or Bilingual)  
-  - Hindi (Native or Bilingual)
-  - Gujarati (Native or Bilingual)  
-  - Spanish (Limited Working)
+**Languages**:
 
-
+- English (Native or Bilingual)
+- Hindi (Native or Bilingual)
+- Gujarati (Native or Bilingual)
+- Spanish (Limited Working)
