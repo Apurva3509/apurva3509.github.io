@@ -3,14 +3,14 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about-apurva",
-    title: "About Apurva",
+    id: "nav-about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-project-repositories",
-          title: "Project Repositories",
+  },{id: "nav-repositories",
+          title: "Repositories",
           description: "My GitHub profile &amp; repositories for project and personal work.",
           section: "Navigation",
           handler: () => {
