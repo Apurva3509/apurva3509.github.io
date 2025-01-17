@@ -51,6 +51,7 @@
     {
       "name": "Nokia of America Corporation",
       "position": "AI/ML Intern",
+      "location": "New Providence, NJ",
       "url": "https://www.nokia.com/",
       "startDate": "2024-06-01",
       "endDate": "2024-08-08",
@@ -60,20 +61,121 @@
     {
       "name": "Indian Space Research Organization",
       "position": "AI Researcher",
+      "location": "Ahmedabad, India",
       "url": "https://www.isro.gov.in/",
       "startDate": "2022-12-01",
       "endDate": "2023-05-20",
-      "summary": "Worked on High Speed data acquisition & verification using FPGAs for Forest fire detection(CNN with input speed of 1.7 GB/s), SEDA - Sensors Development Area Group member",
+      "summary": "Worked on High Speed data acquisition & verification using FPGAs for Forest fire detection(CNN with input speed of 1.7 GB/s), Sensors Development Area(SEDA) Group member",
       "highlights": ["Deep Learning & Computer Vision", "Python, MATLAB, FPGA, LabVIEW"]
     },
     {
       "name": "Indian Oil Corporation Ltd.",
       "position": "Network Security & Instrumentation Intern",
+      "location": "Vadodara, India",
       "url": "https://en.wikipedia.org/wiki/Indian_Oil_Corporation",
       "startDate": "2022-05-01",
       "endDate": "2022-07-10",
       "summary": "Analyzed network security of MPLS & SD-WAN and performed A/B testing, Network & Instrumentation division",
       "highlights": ["Statistical Analysis", "Python, Tableau, Sensor design"]
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "R", "SQL", "Pandas", "NumPy", "C", "C++", "MATLAB", "Java"]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "level": "Master",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["TensorFlow", "PyTorch", "Scikit-Learn", "NLP(NLTK, spaCy)", "FastAPI", "LLM(Hugging Face, LangChain, LangGraph, Transformers)"]
+    },
+
+    {
+      "name": "Data Engineering & Analytics",
+      "level": "Master",
+      "icon": "fa-solid fa-database",
+      "keywords": ["Apache Spark", "Apache Kafka", "Apache Airflow", "Big Data: Hadoop, HDFS, PySpark", "MySQL", "VectorDB(Weaviate)", "ETL"]
+    },
+
+    {
+      "name": "Data Visualization",
+      "level": "Master",
+      "icon": "fa-solid fa-chart-pie",
+      "keywords": ["Tableau", "PowerBI", "Matplotlib", "Seaborn", "Plotly", "ggplot", "Bokeh", "D3.js"]
+    },
+
+    {
+      "name": "Cloud",
+      "level": "Master",
+      "icon": "fa-solid fa-cloud",
+      "keywords": ["AWS: Sagemaker, EC2, Lambda, S3, ELB, Redshift", "GCP: Vertex AI, BigQuery, AutoML"]
+    },
+
+    {
+      "name": "Tools and DevOps",
+      "level": "Master",
+      "icon": "fa-brands fa-git-alt",
+      "keywords": ["Jupyter Notebook", "MLOps", "Databricks", "Git/Gitlab", "CI/CD", "Kubernetes", "Docker", "MS Office"]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Medical Chatbot with RAG Architecture and AI Agents",
+      "summary": "Developed a Medical Chatbot using Retrieval-Augmented Generation (RAG) architecture, integrating finetuned models, AI agents, and vector databases for accurate medical query responses.",
+      "highlights": ["RAG, LLM finetuning, LangChain, VectorDB, AI Agents"],
+      "startDate": "2024-09-05",
+      "endDate": "2024-12-10",
+      "url": "https://github.com/Apurva3509/MedLMs"
+    },
+
+    {
+      "name": "Suspect Recommendation System",
+      "summary": "Built a Suspect Recommendation System using Random Forest and XGBoost, achieving a 20% improvement in predictive accuracy for crime analysis.",
+      "highlights": ["Random Forest, XGBoost, Hyperparameter Tuning, Classification Metrics, MLOps."],
+      "startDate": "2024-01-05",
+      "endDate": "2024-04-18",
+      "url": "https://github.com/Apurva3509/Applied-Machine-Learning-COMS4995-Project"
+    },
+
+    {
+      "name": "SqueezeNet - CNN Design Strategies for Efficient Low-Cost Computing",
+      "summary": "Optimized SqueezeNet for edge devices, achieving 62x computational efficiency and deploying models on GCP for scalable low-power solutions.",
+      "highlights": ["SqueezeNet, CNN, Low-Cost Computing, GCP, VertexAI, Edge Devices, Model Efficiency"],
+      "startDate": "2024-01-05",
+      "endDate": "2024-04-18",
+      "url": "https://github.com/Apurva3509/SqueezeNet_HAD"
+    },
+
+    {
+      "name": "Time-Series Forecasting of Climate Change Data",
+      "summary": "Designed LSTM and MLP models for climate data forecasting, leveraging distributed computing frameworks like Apache Spark and Airflow for scalability.",
+      "highlights": ["Time-Series Forecasting, ARIMA, LSTM, MLP, Apache Spark, Airflow, Hadoop, BigQuery, PySpark"],
+      "startDate": "2023-09-05",
+      "endDate": "2023-12-10",
+      "url": "https://github.com/Apurva3509/Big-Data-TS-Forecasting"
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "AI/ML & Data Science",
+      "icon": "fa-solid fa-lightbulb",
+      "keywords": [
+        "NLP",
+        "LLMs",
+        "ML Modelling",
+        "Fraud & Anomaly Detection",
+        "Recommendation Systems",
+        "Generative AI",
+        "Data Engineering",
+        "Data Analysis",
+        "Time Series Forecasting"
+      ]
     }
   ],
 
@@ -131,39 +233,7 @@
       "summary": "Prototyped and developed a safety algorithm based on minumum distance control using PID controller ."
     }
   ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Master",
-      "icon": "fa-solid fa-thumbtack",
-      "keywords": ["Python", "R", "SQL", "C/C++", "MATLAB", "Java"]
-    },
-    {
-      "name": "Technologies",
-      "level": "Master",
-      "icon": "fa-solid fa-thumbtack",
-      "keywords": [
-        "Machine Learning:TensorFlow, PyTorch, Scikit-Learn, NumPy, MLFlow, Flyte",
-        "NLP & LLM: Hugging Face, LangChain, LangGraph, Transformers, NLTK, Spacy, BERT, T5, GPT",
-        "Big Data: Hadoop, PySpark, BigQuery",
-        "Data Engineering: ETL, Apache Airflow, Apache Spark, Apace Kafka",
-        "Data Visualization: matplotlib, seaborn, plotly, ggplot, Tableau, PowerBI",
-        "A/B testing"
-      ]
-    },
-    {
-      "name": "Tools and DevOps",
-      "level": "Master",
-      "icon": "fa-solid fa-thumbtack",
-      "keywords": [
-        "Jupyter Notebook",
-        "Cloud: Google Cloud Platform(GCP), Amazon Web Services(AWS), Databricks",
-        "Version Control: Git/Gitlab, CI/CD",
-        "Kubernetes, Docker",
-        "MS Office"
-      ]
-    }
-  ],
+
   "languages": [
     {
       "language": "English",
@@ -184,34 +254,6 @@
       "language": "Gujarati",
       "fluency": "Native Speaker",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "AI/ML & Data Science",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "NLP",
-        "LLMs",
-        "ML Modelling",
-        "Fraud & Anomaly Detection",
-        "Recommendation Systems",
-        "Generative AI",
-        "Data Engineering",
-        "Data Analysis",
-        "Time Series Forecasting"
-      ]
-    }
-  ],
-
-  "projects": [
-    {
-      "name": "GitHub",
-      "summary": "Github account with all the projects.",
-      "highlights": ["Medical LLMs", "Time Series Forecasting", "Fraud Detection", "Recommendation Systems"],
-      "startDate": "2019-07-01",
-      "endDate": "2025-01-05",
-      "url": "https://github.com/Apurva3509"
     }
   ]
 }
