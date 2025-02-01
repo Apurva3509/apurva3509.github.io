@@ -9,6 +9,7 @@ profile:
   image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>[My Resume](assets/pdf/Resume_Apurva.pdf)</p>
     <p>amp2365[at]columbia[dot]edu</p>
     <p>📍New York City, USA</p>
 
@@ -29,7 +30,7 @@ I was part of <!-- lychee-ignore --> [DitecT lab](https://www.columbia.edu/~yf25
 
 **I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems.**
 
-Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
+[My Resume](assets/pdf/Resume_Apurva.pdf)!!
 
 <!-- ***Data Science & Generative AI. Understanding the "black box" in AI.***
 
