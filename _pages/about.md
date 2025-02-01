@@ -2,14 +2,13 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='/assets/pdf/Resume_Apurva.pdf'>View Resume</a>
 
 profile:
   align: right
   image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[My Resume](assets/pdf/Resume_Apurva.pdf)</p>
     <p>amp2365[at]columbia[dot]edu</p>
     <p>📍New York City, USA</p>
 
