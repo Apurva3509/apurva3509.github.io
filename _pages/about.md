@@ -27,7 +27,7 @@ I was part of <!-- lychee-ignore --> [DitecT lab](https://www.columbia.edu/~yf25
 
 <!-- My leadership as a PDL Fellow at Columbia University and volunteer work with the Blind People’s Association reflect my commitment to societal impact. -->
 
-**I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recomendation systems.**
+**I am interested in exploring roles involving Data Science & Analytics, Generative AI, AI Agents and Recommendation systems.**
 
 [My Resume](assets/pdf/Resume_Apurva.pdf)!!
 
